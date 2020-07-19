@@ -418,3 +418,4 @@ C:\Users\Bartek\Desktop\studiaATH\C#\BookListRazor\BookListRazor\bin\Debug\netco
 C:\Users\Bartek\Desktop\studiaATH\C#\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Bartek\Desktop\studiaATH\C#\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Bartek\Desktop\studiaATH\C#\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Create.cshtml.g.cs
+C:\Users\Bartek\Desktop\studiaATH\C#\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Edit.cshtml.g.cs
